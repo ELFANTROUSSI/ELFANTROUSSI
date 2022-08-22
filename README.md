@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ELFANTROUSSI
 - 👀 I’m interested in learning new technologies and helping developing ones
-- 🌱 I’m currently learning F#
+- 🌱 I’m currently learning Flutter and React Native
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me : https://elfantroussi.com
 
